@@ -62,3 +62,14 @@ The goal is to identify useful business insights and provide recommendations tha
 
 ## Conclusion
 This project demonstrates how Python-based data analysis can turn raw retail data into meaningful business insights. It helps identify strong-performing areas, understand business trends, and support better decision-making.
+
+## Project Visualizations
+
+### Revenue by Category
+![Revenue by Category](images/revenue_by_category.png)
+
+### Revenue by Region
+![Revenue by Region](images/revenue_by_region.png)
+
+### Monthly Revenue Trend
+![Monthly Revenue Trend](images/monthly_revenue_trend.png)
