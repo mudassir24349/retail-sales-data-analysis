@@ -1,0 +1,501 @@
+order_id,order_date,region,category,product,unit_price,quantity,discount_rate,revenue,cost,profit,payment_method,customer_type
+ORD-0001,2025-02-01,East,Electronics,USB Hub,24,4,0.1,86.4,65.45,20.95,Card,New
+ORD-0002,2025-07-07,North,Clothing,Jacket,75,4,0.15,255.0,198.67,56.33,Mobile Wallet,New
+ORD-0003,2025-05-27,West,Clothing,Jeans,42,1,0.2,33.6,26.2,7.4,Bank Transfer,New
+ORD-0004,2025-11-10,West,Clothing,T-Shirt,15,1,0.1,13.5,7.01,6.49,Cash,Returning
+ORD-0005,2025-06-12,West,Electronics,USB Hub,24,4,0.05,91.2,68.36,22.84,Bank Transfer,Returning
+ORD-0006,2025-07-19,North,Beauty,Face Wash,12,2,0.1,21.6,11.08,10.52,Bank Transfer,Returning
+ORD-0007,2025-11-27,South,Sports,Running Shoes,68,2,0.2,108.8,73.16,35.64,Card,New
+ORD-0008,2025-05-01,North,Beauty,Face Wash,12,3,0.0,36.0,20.82,15.18,Bank Transfer,Returning
+ORD-0009,2025-02-05,South,Sports,Dumbbells,40,1,0.2,32.0,25.56,6.44,Mobile Wallet,Returning
+ORD-0010,2025-03-29,East,Clothing,Jacket,75,5,0.05,356.25,197.94,158.31,Bank Transfer,New
+ORD-0011,2025-10-12,East,Sports,Yoga Mat,25,5,0.0,125.0,82.81,42.19,Cash,Returning
+ORD-0012,2025-01-14,North,Home & Kitchen,Desk Lamp,28,3,0.1,75.6,50.7,24.9,Card,New
+ORD-0013,2025-01-29,West,Clothing,Hoodie,38,4,0.1,136.8,91.6,45.2,Bank Transfer,Returning
+ORD-0014,2025-08-09,North,Clothing,Hoodie,38,1,0.1,34.2,20.22,13.98,Cash,New
+ORD-0015,2025-01-13,North,Sports,Yoga Mat,25,2,0.1,45.0,34.02,10.98,Mobile Wallet,New
+ORD-0016,2025-02-16,East,Sports,Dumbbells,40,5,0.05,190.0,125.74,64.26,Bank Transfer,Returning
+ORD-0017,2025-04-28,Unknown,Sports,Running Shoes,68,3,0.1,183.6,136.64,46.96,Cash,New
+ORD-0018,2025-09-19,North,Electronics,Wireless Mouse,18,4,0.15,61.2,41.38,19.82,Mobile Wallet,Returning
+ORD-0019,2025-03-02,South,Sports,Yoga Mat,25,3,0.15,63.75,42.78,20.97,Card,New
+ORD-0020,2025-05-06,North,Beauty,Shampoo,14,4,0.05,53.2,26.53,26.67,Cash,Returning
+ORD-0021,2025-10-06,West,Home & Kitchen,Desk Lamp,28,3,0.15,71.4,43.83,27.57,Cash,Returning
+ORD-0022,2025-01-29,North,Home & Kitchen,Cookware Set,80,4,0.1,288.0,167.52,120.48,Cash,Returning
+ORD-0023,2025-10-23,East,Electronics,Headphones,45,4,0.05,171.0,95.87,75.13,Bank Transfer,New
+ORD-0024,2025-08-31,South,Clothing,Jacket,75,1,0.15,63.75,48.32,15.43,Cash,Returning
+ORD-0025,2025-10-04,South,Electronics,Keyboard,32,1,0.15,27.2,15.13,12.07,Mobile Wallet,New
+ORD-0026,2025-09-05,North,Electronics,Headphones,45,1,0.05,42.75,22.01,20.74,Card,Returning
+ORD-0027,2025-06-13,South,Beauty,Face Wash,12,2,0.2,19.2,14.57,4.63,Bank Transfer,Returning
+ORD-0028,2025-06-20,West,Home & Kitchen,Blender,55,1,0.2,44.0,31.91,12.09,Card,New
+ORD-0029,2025-02-28,East,Home & Kitchen,Water Bottle,16,4,0.1,57.6,45.01,12.59,Bank Transfer,Unknown
+ORD-0030,2025-11-07,South,Sports,Dumbbells,40,5,0.05,190.0,118.12,71.88,Cash,New
+ORD-0031,2025-04-21,East,Home & Kitchen,Desk Lamp,28,1,0.2,22.4,13.66,8.74,Cash,New
+ORD-0032,2025-09-24,East,Beauty,Shampoo,14,1,0.05,13.3,8.79,4.51,Mobile Wallet,Returning
+ORD-0033,2025-03-28,North,Home & Kitchen,Blender,55,4,0.2,176.0,112.67,63.33,Card,Returning
+ORD-0034,2025-12-18,South,Clothing,Jeans,42,2,0.2,67.2,56.13,11.07,Card,Returning
+ORD-0035,2025-12-28,West,Beauty,Moisturizer,22,4,0.1,79.2,45.68,33.52,Card,New
+ORD-0036,2025-02-25,West,Clothing,T-Shirt,15,2,0.1,27.0,21.54,5.46,Card,Returning
+ORD-0037,2025-06-21,South,Sports,Sports Bottle,18,2,0.2,28.8,21.24,7.56,Card,Returning
+ORD-0038,2025-09-26,East,Home & Kitchen,Cookware Set,80,3,0.05,228.0,114.12,113.88,Cash,New
+ORD-0039,2025-01-25,West,Electronics,USB Hub,24,5,0.05,114.0,57.98,56.02,Mobile Wallet,New
+ORD-0040,2025-01-17,North,Beauty,Face Wash,12,2,0.1,21.6,16.47,5.13,Cash,New
+ORD-0041,2025-06-08,North,Sports,Sports Bottle,18,2,0.2,28.8,21.07,7.73,Mobile Wallet,New
+ORD-0042,2025-12-20,North,Electronics,Wireless Mouse,18,2,0.0,36.0,22.79,13.21,Cash,Returning
+ORD-0043,2025-11-12,West,Sports,Running Shoes,68,4,0.1,244.8,137.07,107.73,Card,Returning
+ORD-0044,2025-07-27,West,Electronics,Keyboard,32,5,0.0,160.0,77.35,82.65,Card,New
+ORD-0045,2025-04-25,West,Sports,Dumbbells,40,1,0.1,36.0,25.16,10.84,Bank Transfer,New
+ORD-0046,2025-02-24,East,Sports,Sports Bottle,18,3,0.0,54.0,32.39,21.61,Mobile Wallet,New
+ORD-0047,2025-03-02,East,Beauty,Face Wash,12,4,0.1,43.2,34.12,9.08,Card,Returning
+ORD-0048,2025-11-06,North,Beauty,Perfume,48,3,0.1,129.6,95.31,34.29,Bank Transfer,New
+ORD-0049,2025-05-02,East,Home & Kitchen,Desk Lamp,28,2,0.15,47.6,28.72,18.88,Mobile Wallet,Returning
+ORD-0050,2025-02-13,South,Sports,Sports Bottle,18,4,0.15,61.2,40.42,20.78,Mobile Wallet,New
+ORD-0051,2025-07-13,North,Electronics,Keyboard,32,5,0.2,128.0,91.61,36.39,Cash,New
+ORD-0052,2025-11-18,North,Sports,Running Shoes,68,5,0.2,272.0,162.66,109.34,Cash,Returning
+ORD-0053,2025-12-04,North,Home & Kitchen,Blender,55,1,0.2,44.0,29.36,14.64,Mobile Wallet,Returning
+ORD-0054,2025-06-16,North,Clothing,T-Shirt,15,1,0.05,14.25,7.37,6.88,Bank Transfer,New
+ORD-0055,2025-06-06,East,Beauty,Face Wash,12,1,0.0,12.0,5.57,6.43,Bank Transfer,Returning
+ORD-0056,2025-09-26,West,Sports,Dumbbells,40,5,0.05,190.0,117.24,72.76,Mobile Wallet,Returning
+ORD-0057,2025-03-25,North,Clothing,T-Shirt,15,3,0.0,45.0,23.13,21.87,Bank Transfer,Returning
+ORD-0058,2025-12-04,East,Sports,Dumbbells,40,2,0.0,80.0,44.07,35.93,Mobile Wallet,New
+ORD-0059,2025-09-09,North,Electronics,USB Hub,24,1,0.0,24.0,16.79,7.21,Mobile Wallet,Returning
+ORD-0060,2025-07-31,West,Sports,Sports Bottle,18,2,0.2,28.8,24.0,4.8,Bank Transfer,Returning
+ORD-0061,2025-04-28,East,Beauty,Perfume,48,4,0.0,192.0,114.19,77.81,Mobile Wallet,Returning
+ORD-0062,2025-04-02,South,Sports,Dumbbells,40,4,0.05,152.0,99.63,52.37,Card,New
+ORD-0063,2025-05-04,South,Clothing,Jeans,42,1,0.1,37.8,21.54,16.26,Bank Transfer,New
+ORD-0064,2025-03-27,South,Beauty,Moisturizer,22,3,0.05,62.7,41.92,20.78,Mobile Wallet,Returning
+ORD-0065,2025-06-18,East,Beauty,Perfume,48,5,0.1,216.0,129.28,86.72,Mobile Wallet,Returning
+ORD-0066,2025-10-07,East,Clothing,Hoodie,38,2,0.2,60.8,45.13,15.67,Card,New
+ORD-0067,2025-07-03,West,Electronics,Keyboard,32,1,0.05,30.4,20.4,10.0,Mobile Wallet,New
+ORD-0068,2025-07-31,North,Sports,Running Shoes,68,4,0.0,272.0,175.7,96.3,Bank Transfer,Returning
+ORD-0069,2025-05-29,East,Beauty,Face Wash,12,5,0.2,48.0,39.97,8.03,Cash,Returning
+ORD-0070,2025-09-21,East,Sports,Sports Bottle,18,5,0.2,72.0,46.66,25.34,Card,New
+ORD-0071,2025-01-03,East,Clothing,Hoodie,38,1,0.0,38.0,22.9,15.1,Cash,New
+ORD-0072,2025-07-08,South,Beauty,Shampoo,14,4,0.15,47.6,37.28,10.32,Card,Returning
+ORD-0073,2025-09-21,North,Electronics,USB Hub,24,5,0.0,120.0,57.79,62.21,Cash,Returning
+ORD-0074,2025-09-24,South,Beauty,Moisturizer,22,5,0.15,93.5,69.44,24.06,Bank Transfer,Returning
+ORD-0075,2025-07-14,South,Sports,Sports Bottle,18,4,0.05,68.4,39.48,28.92,Cash,New
+ORD-0076,2025-09-27,South,Sports,Yoga Mat,25,1,0.2,20.0,14.21,5.79,Card,Returning
+ORD-0077,2025-08-12,South,Electronics,Keyboard,32,5,0.2,128.0,105.71,22.29,Card,New
+ORD-0078,2025-06-04,North,Beauty,Perfume,48,1,0.15,40.8,33.93,6.87,Cash,Returning
+ORD-0079,2025-01-12,East,Sports,Running Shoes,68,1,0.0,68.0,41.4,26.6,Bank Transfer,New
+ORD-0080,2025-12-20,South,Electronics,Headphones,45,4,0.2,144.0,95.35,48.65,Cash,New
+ORD-0081,2025-07-18,North,Electronics,Headphones,45,3,0.2,108.0,89.23,18.77,Cash,Returning
+ORD-0082,2025-01-16,North,Electronics,USB Hub,24,4,0.05,91.2,64.89,26.31,Bank Transfer,Returning
+ORD-0083,2025-09-06,West,Electronics,Keyboard,32,1,0.15,27.2,15.18,12.02,Mobile Wallet,New
+ORD-0084,2025-10-23,North,Home & Kitchen,Blender,55,3,0.0,165.0,108.86,56.14,Card,Returning
+ORD-0085,2025-02-27,North,Home & Kitchen,Cookware Set,80,5,0.0,400.0,180.59,219.41,Mobile Wallet,Returning
+ORD-0086,2025-03-31,North,Sports,Sports Bottle,18,5,0.05,85.5,61.14,24.36,Bank Transfer,Returning
+ORD-0087,2025-10-27,West,Sports,Sports Bottle,18,1,0.15,15.3,11.49,3.81,Cash,New
+ORD-0088,2025-07-17,East,Clothing,T-Shirt,15,1,0.0,15.0,8.79,6.21,Bank Transfer,Returning
+ORD-0089,2025-01-20,North,Electronics,USB Hub,24,3,0.0,72.0,46.68,25.32,Card,New
+ORD-0090,2025-07-05,North,Electronics,Keyboard,32,3,0.2,76.8,59.05,17.75,Card,Returning
+ORD-0091,2025-05-31,North,Electronics,Wireless Mouse,18,2,0.2,28.8,23.1,5.7,Cash,New
+ORD-0092,2025-07-18,West,Beauty,Face Wash,12,2,0.2,19.2,13.77,5.43,Cash,Returning
+ORD-0093,2025-07-17,South,Sports,Running Shoes,68,3,0.0,204.0,143.91,60.09,Cash,Returning
+ORD-0094,2025-02-27,North,Clothing,Hoodie,38,2,0.15,64.6,53.5,11.1,Cash,Returning
+ORD-0095,2025-12-22,North,Beauty,Moisturizer,22,5,0.1,99.0,53.04,45.96,Mobile Wallet,New
+ORD-0096,2025-05-27,East,Electronics,Headphones,45,4,0.1,162.0,110.69,51.31,Mobile Wallet,New
+ORD-0097,2025-08-08,South,Electronics,Headphones,45,5,0.05,213.75,136.99,76.76,Mobile Wallet,New
+ORD-0098,2025-02-04,East,Home & Kitchen,Water Bottle,16,3,0.1,43.2,24.52,18.68,Cash,Returning
+ORD-0099,2025-08-14,Unknown,Clothing,Hoodie,38,3,0.15,96.9,71.38,25.52,Card,Returning
+ORD-0100,2025-07-12,South,Home & Kitchen,Cookware Set,80,1,0.1,72.0,49.52,22.48,Mobile Wallet,Returning
+ORD-0101,2025-11-07,East,Sports,Running Shoes,68,3,0.2,163.2,142.53,20.67,Bank Transfer,Returning
+ORD-0102,2025-05-21,South,Home & Kitchen,Desk Lamp,28,2,0.05,53.2,37.86,15.34,Card,New
+ORD-0103,2025-01-29,South,Electronics,Wireless Mouse,18,5,0.2,72.0,41.85,30.15,Bank Transfer,New
+ORD-0104,2025-11-26,North,Clothing,T-Shirt,15,4,0.05,57.0,39.03,17.97,Cash,Returning
+ORD-0105,2025-03-29,East,Beauty,Perfume,48,3,0.05,136.8,70.77,66.03,Bank Transfer,New
+ORD-0106,2025-06-14,West,Clothing,Jeans,42,3,0.2,100.8,90.57,10.23,Cash,New
+ORD-0107,2025-12-04,East,Beauty,Shampoo,14,1,0.15,11.9,7.77,4.13,Cash,New
+ORD-0108,2025-09-17,North,Beauty,Face Wash,12,4,0.1,43.2,23.72,19.48,Cash,Returning
+ORD-0109,2025-10-20,West,Sports,Sports Bottle,18,5,0.1,81.0,60.89,20.11,Bank Transfer,New
+ORD-0110,2025-11-01,West,Clothing,Jeans,42,5,0.05,199.5,99.04,100.46,Card,New
+ORD-0111,2025-03-31,West,Clothing,Jeans,42,5,0.0,210.0,104.76,105.24,Mobile Wallet,New
+ORD-0112,2025-12-30,East,Beauty,Face Wash,12,1,0.05,11.4,6.99,4.41,Bank Transfer,New
+ORD-0113,2025-11-08,East,Electronics,Wireless Mouse,18,2,0.05,34.2,24.4,9.8,Bank Transfer,Returning
+ORD-0114,2025-09-22,South,Clothing,Hoodie,38,4,0.15,129.2,70.78,58.42,Bank Transfer,Returning
+ORD-0115,2025-07-13,West,Sports,Dumbbells,40,5,0.2,160.0,116.06,43.94,Bank Transfer,Returning
+ORD-0116,2025-02-13,West,Home & Kitchen,Cookware Set,80,3,0.2,192.0,146.05,45.95,Cash,New
+ORD-0117,2025-01-09,South,Clothing,Jeans,42,5,0.1,189.0,100.45,88.55,Mobile Wallet,Returning
+ORD-0118,2025-04-26,North,Beauty,Shampoo,14,2,0.0,28.0,15.16,12.84,Cash,New
+ORD-0119,2025-02-21,East,Beauty,Perfume,48,4,0.1,172.8,102.34,70.46,Bank Transfer,New
+ORD-0120,2025-09-18,West,Clothing,Jeans,42,1,0.15,35.7,26.09,9.61,Mobile Wallet,Returning
+ORD-0121,2025-07-08,East,Sports,Dumbbells,40,5,0.15,170.0,138.78,31.22,Cash,Returning
+ORD-0122,2025-07-05,East,Beauty,Perfume,48,3,0.2,115.2,69.24,45.96,Mobile Wallet,New
+ORD-0123,2025-02-09,West,Beauty,Shampoo,14,5,0.15,59.5,49.83,9.67,Card,New
+ORD-0124,2025-01-02,North,Sports,Running Shoes,68,5,0.15,289.0,184.81,104.19,Cash,New
+ORD-0125,2025-11-10,South,Clothing,Jacket,75,5,0.1,337.5,268.54,68.96,Cash,Returning
+ORD-0126,2025-03-23,East,Home & Kitchen,Water Bottle,16,1,0.15,13.6,7.57,6.03,Bank Transfer,Returning
+ORD-0127,2025-01-21,South,Home & Kitchen,Desk Lamp,28,3,0.2,67.2,38.64,28.56,Mobile Wallet,New
+ORD-0128,2025-08-28,West,Home & Kitchen,Blender,55,5,0.15,233.75,176.71,57.04,Card,Returning
+ORD-0129,2025-11-28,North,Beauty,Shampoo,14,2,0.2,22.4,12.97,9.43,Card,Returning
+ORD-0130,2025-04-06,East,Home & Kitchen,Desk Lamp,28,3,0.0,84.0,49.47,34.53,Bank Transfer,New
+ORD-0131,2025-04-03,North,Beauty,Moisturizer,22,4,0.2,70.4,55.56,14.84,Cash,Returning
+ORD-0132,2025-09-17,East,Clothing,Jeans,42,4,0.2,134.4,89.16,45.24,Cash,New
+ORD-0133,2025-09-05,North,Electronics,Headphones,45,3,0.2,108.0,67.59,40.41,Bank Transfer,New
+ORD-0134,2025-08-21,South,Clothing,Hoodie,38,3,0.2,91.2,82.04,9.16,Mobile Wallet,New
+ORD-0135,2025-11-09,East,Clothing,T-Shirt,15,1,0.1,13.5,10.79,2.71,Bank Transfer,Returning
+ORD-0136,2025-05-06,North,Electronics,Headphones,45,3,0.2,108.0,78.86,29.14,Card,New
+ORD-0137,2025-04-21,South,Electronics,Wireless Mouse,18,2,0.05,34.2,16.37,17.83,Mobile Wallet,Returning
+ORD-0138,2025-12-18,West,Sports,Dumbbells,40,3,0.1,108.0,85.08,22.92,Bank Transfer,Returning
+ORD-0139,2025-07-24,South,Sports,Dumbbells,40,2,0.2,64.0,41.08,22.92,Unknown,Returning
+ORD-0140,2025-08-15,East,Home & Kitchen,Cookware Set,80,5,0.15,340.0,243.8,96.2,Card,New
+ORD-0141,2025-05-07,West,Sports,Yoga Mat,25,2,0.05,47.5,24.6,22.9,Card,New
+ORD-0142,2025-08-20,South,Electronics,Keyboard,32,2,0.15,54.4,42.34,12.06,Mobile Wallet,New
+ORD-0143,2025-09-03,West,Sports,Sports Bottle,18,3,0.15,45.9,36.18,9.72,Cash,Returning
+ORD-0144,2025-06-05,East,Clothing,T-Shirt,15,1,0.1,13.5,7.16,6.34,Cash,Returning
+ORD-0145,2025-12-09,West,Beauty,Shampoo,14,5,0.1,63.0,32.18,30.82,Bank Transfer,New
+ORD-0146,2025-12-26,South,Home & Kitchen,Blender,55,1,0.05,52.25,25.72,26.53,Cash,Returning
+ORD-0147,2025-08-20,South,Beauty,Moisturizer,22,1,0.0,22.0,10.56,11.44,Mobile Wallet,New
+ORD-0148,2025-06-29,South,Sports,Running Shoes,68,3,0.05,193.8,108.44,85.36,Card,New
+ORD-0149,2025-03-01,North,Electronics,Wireless Mouse,18,2,0.0,36.0,24.59,11.41,Card,Returning
+ORD-0150,2025-07-21,West,Home & Kitchen,Water Bottle,16,1,0.05,15.2,9.06,6.14,Cash,Returning
+ORD-0151,2025-11-30,South,Clothing,Jeans,42,2,0.05,79.8,43.3,36.5,Mobile Wallet,Returning
+ORD-0152,2025-06-26,North,Home & Kitchen,Blender,55,4,0.05,209.0,154.26,54.74,Cash,New
+ORD-0153,2025-04-27,North,Sports,Running Shoes,68,1,0.0,68.0,31.47,36.53,Card,Returning
+ORD-0154,2025-02-26,North,Electronics,Wireless Mouse,18,5,0.0,90.0,41.26,48.74,Bank Transfer,Returning
+ORD-0155,2025-09-08,West,Clothing,T-Shirt,15,1,0.1,13.5,9.14,4.36,Cash,New
+ORD-0156,2025-11-24,West,Home & Kitchen,Desk Lamp,28,3,0.15,71.4,41.49,29.91,Mobile Wallet,Returning
+ORD-0157,2025-12-20,East,Home & Kitchen,Water Bottle,16,2,0.2,25.6,18.33,7.27,Mobile Wallet,Returning
+ORD-0158,2025-07-20,West,Electronics,Headphones,45,4,0.2,144.0,96.47,47.53,Card,Returning
+ORD-0159,2025-10-28,North,Home & Kitchen,Blender,55,3,0.1,148.5,88.4,60.1,Mobile Wallet,New
+ORD-0160,2025-08-29,East,Beauty,Moisturizer,22,2,0.0,44.0,21.77,22.23,Mobile Wallet,Returning
+ORD-0161,2025-02-23,East,Home & Kitchen,Cookware Set,80,5,0.05,380.0,276.12,103.88,Card,New
+ORD-0162,2025-10-17,East,Beauty,Face Wash,12,4,0.15,40.8,23.84,16.96,Card,Returning
+ORD-0163,2025-07-30,East,Home & Kitchen,Blender,55,5,0.0,275.0,197.49,77.51,Cash,New
+ORD-0164,2025-03-02,East,Clothing,Jacket,75,1,0.2,60.0,44.61,15.39,Card,New
+ORD-0165,2025-05-06,East,Beauty,Face Wash,12,3,0.1,32.4,19.07,13.33,Mobile Wallet,Returning
+ORD-0166,2025-11-06,West,Electronics,Wireless Mouse,18,1,0.1,16.2,9.22,6.98,Mobile Wallet,New
+ORD-0167,2025-10-02,East,Beauty,Shampoo,14,1,0.1,12.6,7.8,4.8,Bank Transfer,Returning
+ORD-0168,2025-02-24,South,Beauty,Shampoo,14,2,0.15,23.8,20.03,3.77,Mobile Wallet,Returning
+ORD-0169,2025-06-06,South,Sports,Yoga Mat,25,1,0.15,21.25,14.76,6.49,Mobile Wallet,New
+ORD-0170,2025-06-21,North,Beauty,Perfume,48,4,0.05,182.4,121.79,60.61,Cash,Returning
+ORD-0171,2025-12-25,West,Home & Kitchen,Blender,55,4,0.0,220.0,150.02,69.98,Card,New
+ORD-0172,2025-08-24,South,Home & Kitchen,Water Bottle,16,5,0.15,68.0,54.97,13.03,Cash,Returning
+ORD-0173,2025-12-13,East,Electronics,Keyboard,32,4,0.15,108.8,84.66,24.14,Cash,New
+ORD-0174,2025-07-03,North,Beauty,Perfume,48,4,0.2,153.6,127.77,25.83,Card,New
+ORD-0175,2025-12-27,South,Clothing,Hoodie,38,3,0.0,114.0,81.44,32.56,Mobile Wallet,Returning
+ORD-0176,2025-05-08,East,Sports,Sports Bottle,18,4,0.05,68.4,38.6,29.8,Bank Transfer,Returning
+ORD-0177,2025-07-04,South,Home & Kitchen,Water Bottle,16,1,0.15,13.6,11.24,2.36,Card,New
+ORD-0178,2025-05-02,North,Home & Kitchen,Water Bottle,16,2,0.05,30.4,15.53,14.87,Cash,Returning
+ORD-0179,2025-03-14,North,Electronics,Headphones,45,1,0.2,36.0,23.21,12.79,Cash,Returning
+ORD-0180,2025-12-23,North,Clothing,Jacket,75,2,0.05,142.5,75.68,66.82,Cash,Returning
+ORD-0181,2025-01-04,South,Electronics,Headphones,45,3,0.05,128.25,62.4,65.85,Card,Returning
+ORD-0182,2025-03-27,South,Home & Kitchen,Cookware Set,80,4,0.1,288.0,153.56,134.44,Card,New
+ORD-0183,2025-02-08,West,Home & Kitchen,Desk Lamp,28,2,0.2,44.8,38.83,5.97,Bank Transfer,Returning
+ORD-0184,2025-12-10,South,Home & Kitchen,Desk Lamp,28,3,0.0,84.0,40.93,43.07,Card,Returning
+ORD-0185,2025-05-27,East,Clothing,T-Shirt,15,5,0.2,60.0,46.24,13.76,Bank Transfer,New
+ORD-0186,2025-05-17,East,Electronics,Headphones,45,3,0.0,135.0,91.8,43.2,Bank Transfer,Returning
+ORD-0187,2025-02-10,West,Beauty,Moisturizer,22,5,0.05,104.5,61.52,42.98,Card,Returning
+ORD-0188,2025-03-27,West,Electronics,Wireless Mouse,18,4,0.2,57.6,34.75,22.85,Bank Transfer,New
+ORD-0189,2025-08-26,South,Home & Kitchen,Water Bottle,16,1,0.2,12.8,7.98,4.82,Card,New
+ORD-0190,2025-07-29,West,Electronics,Wireless Mouse,18,5,0.15,76.5,61.19,15.31,Bank Transfer,New
+ORD-0191,2025-04-19,North,Clothing,Hoodie,38,4,0.05,144.4,78.45,65.95,Card,Returning
+ORD-0192,2025-04-14,South,Electronics,USB Hub,24,1,0.15,20.4,14.15,6.25,Cash,Returning
+ORD-0193,2025-05-12,North,Home & Kitchen,Cookware Set,80,5,0.1,360.0,194.23,165.77,Card,Returning
+ORD-0194,2025-05-16,East,Electronics,Headphones,45,5,0.2,180.0,111.19,68.81,Mobile Wallet,New
+ORD-0195,2025-02-27,West,Electronics,Headphones,45,5,0.0,225.0,108.48,116.52,Card,New
+ORD-0196,2025-07-12,East,Sports,Running Shoes,68,1,0.1,61.2,37.95,23.25,Bank Transfer,New
+ORD-0197,2025-05-16,South,Sports,Sports Bottle,18,1,0.2,14.4,11.7,2.7,Mobile Wallet,New
+ORD-0198,2025-12-07,South,Sports,Sports Bottle,18,4,0.05,68.4,33.37,35.03,Card,Returning
+ORD-0199,2025-10-29,North,Beauty,Shampoo,14,1,0.15,11.9,9.3,2.6,Card,Returning
+ORD-0200,2025-07-21,West,Clothing,Jeans,42,2,0.15,71.4,37.85,33.55,Cash,New
+ORD-0201,2025-06-08,North,Sports,Yoga Mat,25,2,0.1,45.0,24.24,20.76,Mobile Wallet,Returning
+ORD-0202,2025-06-01,East,Clothing,Jeans,42,1,0.2,33.6,22.52,11.08,Bank Transfer,New
+ORD-0203,2025-08-13,West,Home & Kitchen,Cookware Set,80,4,0.1,288.0,184.85,103.15,Bank Transfer,New
+ORD-0204,2025-08-02,North,Clothing,T-Shirt,15,1,0.15,12.75,10.18,2.57,Mobile Wallet,New
+ORD-0205,2025-06-15,East,Home & Kitchen,Desk Lamp,28,4,0.15,95.2,80.39,14.81,Mobile Wallet,Returning
+ORD-0206,2025-09-26,East,Electronics,Headphones,45,2,0.2,72.0,49.4,22.6,Cash,New
+ORD-0207,2025-09-22,West,Sports,Running Shoes,68,1,0.15,57.8,39.94,17.86,Cash,New
+ORD-0208,2025-06-19,South,Electronics,Keyboard,32,3,0.05,91.2,53.78,37.42,Cash,New
+ORD-0209,2025-09-25,East,Sports,Yoga Mat,25,2,0.15,42.5,31.35,11.15,Cash,New
+ORD-0210,2025-12-10,West,Sports,Dumbbells,40,5,0.0,200.0,132.02,67.98,Mobile Wallet,New
+ORD-0211,2025-10-07,North,Sports,Running Shoes,68,1,0.0,68.0,35.65,32.35,Cash,New
+ORD-0212,2025-12-17,East,Home & Kitchen,Cookware Set,80,5,0.2,320.0,201.87,118.13,Bank Transfer,Returning
+ORD-0213,2025-04-23,East,Beauty,Perfume,48,3,0.15,122.4,74.72,47.68,Card,New
+ORD-0214,2025-07-18,North,Beauty,Perfume,48,3,0.05,136.8,91.45,45.35,Bank Transfer,New
+ORD-0215,2025-03-06,West,Beauty,Perfume,48,5,0.15,204.0,136.77,67.23,Mobile Wallet,Returning
+ORD-0216,2025-06-11,East,Home & Kitchen,Water Bottle,16,5,0.1,72.0,46.58,25.42,Mobile Wallet,New
+ORD-0217,2025-04-26,West,Sports,Yoga Mat,25,3,0.2,60.0,52.46,7.54,Mobile Wallet,Returning
+ORD-0218,2025-02-08,South,Electronics,Keyboard,32,5,0.15,136.0,104.94,31.06,Bank Transfer,New
+ORD-0219,2025-04-22,South,Beauty,Face Wash,12,4,0.15,40.8,25.35,15.45,Cash,Returning
+ORD-0220,2025-04-17,West,Home & Kitchen,Water Bottle,16,2,0.05,30.4,21.45,8.95,Bank Transfer,New
+ORD-0221,2025-02-19,West,Home & Kitchen,Blender,55,1,0.05,52.25,36.59,15.66,Card,New
+ORD-0222,2025-06-14,West,Beauty,Perfume,48,4,0.0,192.0,106.62,85.38,Cash,New
+ORD-0223,2025-11-17,West,Sports,Yoga Mat,25,1,0.1,22.5,15.43,7.07,Cash,Returning
+ORD-0224,2025-04-02,South,Beauty,Face Wash,12,5,0.0,60.0,39.81,20.19,Cash,Returning
+ORD-0225,2025-07-30,North,Home & Kitchen,Cookware Set,80,3,0.0,240.0,161.95,78.05,Card,New
+ORD-0226,2025-10-18,East,Clothing,Hoodie,38,2,0.1,68.4,48.28,20.12,Card,Returning
+ORD-0227,2025-09-07,East,Electronics,USB Hub,24,1,0.1,21.6,11.42,10.18,Card,Returning
+ORD-0228,2025-03-18,North,Home & Kitchen,Water Bottle,16,2,0.1,28.8,18.07,10.73,Cash,Returning
+ORD-0229,2025-11-27,West,Beauty,Moisturizer,22,2,0.15,37.4,29.69,7.71,Mobile Wallet,New
+ORD-0230,2025-03-03,South,Home & Kitchen,Water Bottle,16,2,0.15,27.2,21.32,5.88,Card,Returning
+ORD-0231,2025-04-29,North,Home & Kitchen,Blender,55,3,0.2,132.0,78.53,53.47,Cash,Returning
+ORD-0232,2025-02-01,South,Home & Kitchen,Blender,55,3,0.0,165.0,74.27,90.73,Mobile Wallet,Returning
+ORD-0233,2025-05-05,North,Electronics,Wireless Mouse,18,2,0.15,30.6,24.2,6.4,Card,New
+ORD-0234,2025-06-15,West,Electronics,USB Hub,24,2,0.2,38.4,28.58,9.82,Card,New
+ORD-0235,2025-04-30,West,Clothing,Jeans,42,3,0.15,107.1,65.46,41.64,Card,Returning
+ORD-0236,2025-05-31,North,Clothing,Jacket,75,4,0.1,270.0,164.8,105.2,Bank Transfer,New
+ORD-0237,2025-05-04,North,Beauty,Perfume,48,5,0.0,240.0,113.57,126.43,Card,New
+ORD-0238,2025-11-08,North,Electronics,USB Hub,24,1,0.05,22.8,17.22,5.58,Mobile Wallet,Returning
+ORD-0239,2025-12-14,West,Electronics,Headphones,45,5,0.05,213.75,154.41,59.34,Mobile Wallet,Returning
+ORD-0240,2025-12-12,South,Clothing,T-Shirt,15,4,0.05,57.0,37.63,19.37,Cash,Returning
+ORD-0241,2025-05-16,East,Electronics,Keyboard,32,4,0.1,115.2,86.23,28.97,Cash,New
+ORD-0242,2025-08-15,South,Clothing,T-Shirt,15,5,0.15,63.75,43.6,20.15,Cash,New
+ORD-0243,2025-02-27,South,Home & Kitchen,Desk Lamp,28,1,0.2,22.4,16.84,5.56,Mobile Wallet,New
+ORD-0244,2025-08-22,East,Electronics,Keyboard,32,1,0.05,30.4,19.27,11.13,Mobile Wallet,New
+ORD-0245,2025-10-10,East,Home & Kitchen,Blender,55,1,0.05,52.25,38.03,14.22,Mobile Wallet,New
+ORD-0246,2025-11-03,West,Sports,Sports Bottle,18,1,0.1,16.2,10.41,5.79,Cash,New
+ORD-0247,2025-04-20,East,Home & Kitchen,Blender,55,3,0.1,148.5,82.96,65.54,Card,New
+ORD-0248,2025-07-10,North,Sports,Yoga Mat,25,3,0.05,71.25,42.31,28.94,Card,New
+ORD-0249,2025-03-31,North,Beauty,Perfume,48,1,0.05,45.6,26.28,19.32,Bank Transfer,New
+ORD-0250,2025-10-20,West,Home & Kitchen,Water Bottle,16,5,0.15,68.0,40.44,27.56,Card,Returning
+ORD-0251,2025-06-17,East,Beauty,Face Wash,12,4,0.0,48.0,23.09,24.91,Cash,New
+ORD-0252,2025-09-10,East,Electronics,USB Hub,24,5,0.15,102.0,80.56,21.44,Card,Returning
+ORD-0253,2025-06-20,West,Clothing,T-Shirt,15,2,0.1,27.0,16.12,10.88,Card,Returning
+ORD-0254,2025-04-30,South,Sports,Sports Bottle,18,5,0.0,90.0,64.28,25.72,Bank Transfer,New
+ORD-0255,2025-10-18,East,Home & Kitchen,Desk Lamp,28,5,0.05,133.0,78.03,54.97,Cash,New
+ORD-0256,2025-10-19,West,Beauty,Moisturizer,22,2,0.0,44.0,21.03,22.97,Card,Returning
+ORD-0257,2025-10-20,East,Clothing,Jeans,42,4,0.1,151.2,95.17,56.03,Cash,Returning
+ORD-0258,2025-04-09,South,Sports,Sports Bottle,18,4,0.05,68.4,38.8,29.6,Mobile Wallet,Returning
+ORD-0259,2025-05-15,South,Home & Kitchen,Water Bottle,16,2,0.15,27.2,19.19,8.01,Mobile Wallet,New
+ORD-0260,2025-07-02,East,Electronics,Headphones,45,3,0.0,135.0,66.8,68.2,Mobile Wallet,New
+ORD-0261,2025-07-14,South,Sports,Yoga Mat,25,4,0.1,90.0,65.4,24.6,Bank Transfer,Returning
+ORD-0262,2025-12-29,North,Sports,Sports Bottle,18,1,0.1,16.2,11.35,4.85,Bank Transfer,Returning
+ORD-0263,2025-12-24,North,Sports,Dumbbells,40,1,0.2,32.0,24.25,7.75,Bank Transfer,New
+ORD-0264,2025-05-03,East,Sports,Running Shoes,68,5,0.1,306.0,155.44,150.56,Card,Returning
+ORD-0265,2025-07-27,West,Home & Kitchen,Water Bottle,16,2,0.1,28.8,14.45,14.35,Mobile Wallet,New
+ORD-0266,2025-01-22,South,Sports,Sports Bottle,18,5,0.05,85.5,54.23,31.27,Bank Transfer,New
+ORD-0267,2025-03-29,West,Clothing,Jacket,75,1,0.1,67.5,44.61,22.89,Card,Unknown
+ORD-0268,2025-12-18,West,Beauty,Perfume,48,5,0.0,240.0,146.51,93.49,Bank Transfer,New
+ORD-0269,2025-03-31,East,Electronics,Wireless Mouse,18,2,0.2,28.8,20.88,7.92,Bank Transfer,Returning
+ORD-0270,2025-02-16,South,Beauty,Shampoo,14,5,0.1,63.0,38.49,24.51,Card,New
+ORD-0271,2025-09-15,South,Sports,Sports Bottle,18,2,0.2,28.8,18.96,9.84,Bank Transfer,Returning
+ORD-0272,2025-06-08,East,Electronics,Wireless Mouse,18,5,0.1,81.0,51.77,29.23,Bank Transfer,New
+ORD-0273,2025-02-19,North,Beauty,Shampoo,14,1,0.05,13.3,8.64,4.66,Bank Transfer,New
+ORD-0274,2025-07-29,North,Sports,Running Shoes,68,5,0.05,323.0,165.82,157.18,Cash,New
+ORD-0275,2025-03-23,West,Electronics,Wireless Mouse,18,3,0.2,43.2,30.2,13.0,Cash,Returning
+ORD-0276,2025-11-19,East,Home & Kitchen,Blender,55,3,0.15,140.25,113.07,27.18,Cash,New
+ORD-0277,2025-05-15,West,Electronics,Headphones,45,2,0.0,90.0,53.49,36.51,Cash,Returning
+ORD-0278,2025-07-10,West,Beauty,Face Wash,12,2,0.15,20.4,12.76,7.64,Cash,New
+ORD-0279,2025-04-14,North,Home & Kitchen,Desk Lamp,28,4,0.2,89.6,53.95,35.65,Card,Returning
+ORD-0280,2025-11-15,East,Sports,Yoga Mat,25,4,0.1,90.0,69.73,20.27,Bank Transfer,New
+ORD-0281,2025-04-16,South,Beauty,Moisturizer,22,5,0.0,110.0,78.27,31.73,Mobile Wallet,New
+ORD-0282,2025-09-03,West,Clothing,Jeans,42,1,0.2,33.6,19.97,13.63,Card,Returning
+ORD-0283,2025-05-13,West,Clothing,Jacket,75,1,0.2,60.0,50.8,9.2,Bank Transfer,New
+ORD-0284,2025-12-19,West,Sports,Sports Bottle,18,2,0.1,32.4,21.48,10.92,Card,Returning
+ORD-0285,2025-11-11,South,Clothing,Hoodie,38,4,0.1,136.8,87.13,49.67,Cash,New
+ORD-0286,2025-07-27,West,Electronics,Headphones,45,1,0.0,45.0,21.19,23.81,Bank Transfer,New
+ORD-0287,2025-04-26,North,Electronics,USB Hub,24,5,0.15,102.0,55.14,46.86,Mobile Wallet,New
+ORD-0288,2025-08-31,West,Home & Kitchen,Desk Lamp,28,5,0.05,133.0,82.5,50.5,Mobile Wallet,Returning
+ORD-0289,2025-12-07,North,Electronics,Wireless Mouse,18,3,0.0,54.0,26.54,27.46,Card,New
+ORD-0290,2025-08-29,East,Electronics,Keyboard,32,2,0.2,51.2,38.08,13.12,Mobile Wallet,New
+ORD-0291,2025-08-17,West,Clothing,Jacket,75,5,0.15,318.75,256.24,62.51,Card,New
+ORD-0292,2025-08-15,West,Electronics,Wireless Mouse,18,3,0.05,51.3,30.68,20.62,Mobile Wallet,New
+ORD-0293,2025-08-14,South,Home & Kitchen,Desk Lamp,28,1,0.1,25.2,13.98,11.22,Card,Returning
+ORD-0294,2025-10-08,East,Electronics,Keyboard,32,1,0.1,28.8,16.38,12.42,Mobile Wallet,New
+ORD-0295,2025-08-03,South,Beauty,Perfume,48,4,0.0,192.0,91.96,100.04,Bank Transfer,Returning
+ORD-0296,2025-02-06,South,Electronics,Keyboard,32,5,0.1,144.0,114.98,29.02,Bank Transfer,New
+ORD-0297,2025-03-29,North,Sports,Dumbbells,40,5,0.0,200.0,122.02,77.98,Bank Transfer,Returning
+ORD-0298,2025-06-30,West,Beauty,Face Wash,12,3,0.2,28.8,20.76,8.04,Cash,New
+ORD-0299,2025-09-30,West,Beauty,Face Wash,12,5,0.2,48.0,37.5,10.5,Mobile Wallet,New
+ORD-0300,2025-04-21,South,Clothing,Hoodie,38,1,0.2,30.4,23.57,6.83,Cash,Returning
+ORD-0301,2025-08-07,South,Beauty,Shampoo,14,5,0.2,56.0,38.51,17.49,Bank Transfer,Returning
+ORD-0302,2025-07-14,North,Home & Kitchen,Cookware Set,80,1,0.15,68.0,45.93,22.07,Bank Transfer,Returning
+ORD-0303,2025-02-11,East,Home & Kitchen,Blender,55,2,0.0,110.0,68.12,41.88,Card,Returning
+ORD-0304,2025-10-20,North,Beauty,Moisturizer,22,3,0.0,66.0,46.74,19.26,Cash,New
+ORD-0305,2025-09-23,West,Home & Kitchen,Water Bottle,16,2,0.1,28.8,22.03,6.77,Card,Returning
+ORD-0306,2025-10-20,North,Sports,Yoga Mat,25,4,0.05,95.0,57.92,37.08,Cash,New
+ORD-0307,2025-10-30,East,Home & Kitchen,Water Bottle,16,2,0.0,32.0,19.15,12.85,Card,New
+ORD-0308,2025-02-09,West,Clothing,Jeans,42,2,0.15,71.4,54.76,16.64,Card,New
+ORD-0309,2025-03-08,North,Clothing,Jacket,75,2,0.05,142.5,82.11,60.39,Card,New
+ORD-0310,2025-03-05,South,Home & Kitchen,Water Bottle,16,4,0.05,60.8,41.79,19.01,Card,New
+ORD-0311,2025-11-11,South,Home & Kitchen,Blender,55,1,0.1,49.5,29.25,20.25,Mobile Wallet,New
+ORD-0312,2025-08-18,East,Clothing,Jacket,75,1,0.2,60.0,43.83,16.17,Card,Returning
+ORD-0313,2025-10-31,West,Beauty,Perfume,48,3,0.15,122.4,99.39,23.01,Bank Transfer,Returning
+ORD-0314,2025-07-31,Unknown,Home & Kitchen,Water Bottle,16,4,0.0,64.0,29.07,34.93,Cash,New
+ORD-0315,2025-08-23,West,Clothing,Jeans,42,3,0.1,113.4,75.48,37.92,Mobile Wallet,New
+ORD-0316,2025-10-09,West,Beauty,Face Wash,12,1,0.15,10.2,8.15,2.05,Bank Transfer,Returning
+ORD-0317,2025-10-01,South,Electronics,USB Hub,24,1,0.05,22.8,13.4,9.4,Mobile Wallet,Returning
+ORD-0318,2025-08-13,South,Beauty,Perfume,48,3,0.05,136.8,86.46,50.34,Card,New
+ORD-0319,2025-10-07,South,Home & Kitchen,Blender,55,4,0.0,220.0,155.39,64.61,Card,Returning
+ORD-0320,2025-03-24,West,Electronics,Keyboard,32,4,0.0,128.0,63.66,64.34,Mobile Wallet,New
+ORD-0321,2025-12-31,West,Sports,Sports Bottle,18,4,0.0,72.0,45.57,26.43,Cash,New
+ORD-0322,2025-01-02,South,Sports,Dumbbells,40,2,0.2,64.0,41.72,22.28,Mobile Wallet,New
+ORD-0323,2025-07-31,South,Beauty,Moisturizer,22,4,0.15,74.8,57.94,16.86,Bank Transfer,Returning
+ORD-0324,2025-05-13,West,Sports,Yoga Mat,25,4,0.0,100.0,60.42,39.58,Mobile Wallet,New
+ORD-0325,2025-10-08,North,Home & Kitchen,Blender,55,5,0.1,247.5,183.89,63.61,Card,New
+ORD-0326,2025-03-05,North,Home & Kitchen,Cookware Set,80,1,0.05,76.0,40.08,35.92,Bank Transfer,New
+ORD-0327,2025-09-27,East,Clothing,Jeans,42,4,0.2,134.4,104.73,29.67,Card,Returning
+ORD-0328,2025-01-27,North,Electronics,Headphones,45,4,0.1,162.0,125.87,36.13,Mobile Wallet,Unknown
+ORD-0329,2025-02-17,North,Electronics,USB Hub,24,5,0.0,120.0,69.17,50.83,Card,New
+ORD-0330,2025-03-19,West,Clothing,Jeans,42,2,0.05,79.8,55.85,23.95,Bank Transfer,Returning
+ORD-0331,2025-04-11,North,Beauty,Moisturizer,22,4,0.05,83.6,45.65,37.95,Card,Returning
+ORD-0332,2025-08-19,South,Clothing,Jeans,42,5,0.05,199.5,142.51,56.99,Cash,New
+ORD-0333,2025-02-28,North,Electronics,Wireless Mouse,18,4,0.15,61.2,47.62,13.58,Cash,Returning
+ORD-0334,2025-07-10,North,Beauty,Perfume,48,2,0.2,76.8,49.1,27.7,Mobile Wallet,Returning
+ORD-0335,2025-08-08,North,Clothing,Jeans,42,1,0.15,35.7,27.52,8.18,Card,Returning
+ORD-0336,2025-01-21,West,Electronics,USB Hub,24,1,0.15,20.4,13.66,6.74,Card,Returning
+ORD-0337,2025-08-15,South,Sports,Running Shoes,68,1,0.2,54.4,44.36,10.04,Cash,New
+ORD-0338,2025-07-04,East,Sports,Yoga Mat,25,2,0.1,45.0,29.32,15.68,Mobile Wallet,New
+ORD-0339,2025-10-10,East,Sports,Sports Bottle,18,5,0.2,72.0,46.5,25.5,Cash,Returning
+ORD-0340,2025-06-15,West,Home & Kitchen,Cookware Set,80,4,0.0,320.0,212.71,107.29,Card,Returning
+ORD-0341,2025-05-10,East,Sports,Sports Bottle,18,1,0.2,14.4,9.81,4.59,Bank Transfer,New
+ORD-0342,2025-08-13,Unknown,Electronics,USB Hub,24,2,0.0,48.0,26.94,21.06,Card,New
+ORD-0343,2025-06-25,West,Clothing,Jacket,75,4,0.05,285.0,214.38,70.62,Mobile Wallet,New
+ORD-0344,2025-04-18,East,Home & Kitchen,Desk Lamp,28,2,0.05,53.2,34.37,18.83,Mobile Wallet,Returning
+ORD-0345,2025-04-27,East,Sports,Yoga Mat,25,3,0.05,71.25,48.17,23.08,Bank Transfer,New
+ORD-0346,2025-10-01,North,Clothing,T-Shirt,15,3,0.05,42.75,30.76,11.99,Mobile Wallet,New
+ORD-0347,2025-07-16,South,Clothing,Jacket,75,5,0.0,375.0,244.66,130.34,Bank Transfer,Returning
+ORD-0348,2025-07-19,East,Home & Kitchen,Cookware Set,80,4,0.2,256.0,162.66,93.34,Cash,Returning
+ORD-0349,2025-05-05,West,Beauty,Face Wash,12,4,0.05,45.6,21.95,23.65,Cash,Returning
+ORD-0350,2025-02-07,South,Electronics,Keyboard,32,2,0.15,54.4,37.99,16.41,Card,New
+ORD-0351,2025-11-02,West,Electronics,Keyboard,32,2,0.05,60.8,44.15,16.65,Card,New
+ORD-0352,2025-03-03,West,Sports,Running Shoes,68,1,0.0,68.0,48.45,19.55,Bank Transfer,Returning
+ORD-0353,2025-02-18,North,Sports,Dumbbells,40,5,0.0,200.0,101.44,98.56,Card,New
+ORD-0354,2025-01-11,North,Home & Kitchen,Blender,55,1,0.2,44.0,25.85,18.15,Bank Transfer,Returning
+ORD-0355,2025-05-30,West,Beauty,Shampoo,14,1,0.15,11.9,8.68,3.22,Cash,Returning
+ORD-0356,2025-09-15,South,Clothing,Hoodie,38,5,0.15,161.5,108.45,53.05,Card,New
+ORD-0357,2025-06-04,North,Electronics,Wireless Mouse,18,3,0.15,45.9,28.1,17.8,Unknown,New
+ORD-0358,2025-08-24,West,Beauty,Perfume,48,4,0.05,182.4,121.96,60.44,Mobile Wallet,New
+ORD-0359,2025-06-15,East,Sports,Sports Bottle,18,2,0.05,34.2,18.31,15.89,Bank Transfer,Returning
+ORD-0360,2025-05-04,East,Electronics,Headphones,45,5,0.1,202.5,118.86,83.64,Cash,Returning
+ORD-0361,2025-04-30,East,Clothing,Hoodie,38,1,0.15,32.3,18.49,13.81,Bank Transfer,Returning
+ORD-0362,2025-01-19,South,Clothing,Hoodie,38,4,0.0,152.0,86.74,65.26,Cash,New
+ORD-0363,2025-10-09,North,Sports,Yoga Mat,25,2,0.1,45.0,32.53,12.47,Mobile Wallet,Returning
+ORD-0364,2025-07-17,South,Clothing,Hoodie,38,1,0.15,32.3,21.95,10.35,Card,Returning
+ORD-0365,2025-08-23,East,Beauty,Perfume,48,5,0.1,216.0,142.26,73.74,Mobile Wallet,Returning
+ORD-0366,2025-07-07,West,Electronics,Wireless Mouse,18,3,0.1,48.6,31.32,17.28,Cash,New
+ORD-0367,2025-08-03,North,Clothing,Jeans,42,5,0.2,168.0,120.05,47.95,Cash,New
+ORD-0368,2025-05-14,West,Electronics,Wireless Mouse,18,3,0.0,54.0,30.6,23.4,Bank Transfer,Returning
+ORD-0369,2025-02-08,West,Beauty,Face Wash,12,2,0.1,21.6,11.8,9.8,Mobile Wallet,New
+ORD-0370,2025-04-23,South,Clothing,Hoodie,38,1,0.05,36.1,23.68,12.42,Cash,Returning
+ORD-0371,2025-02-27,West,Electronics,Wireless Mouse,18,2,0.2,28.8,21.06,7.74,Cash,Returning
+ORD-0372,2025-05-08,South,Home & Kitchen,Desk Lamp,28,5,0.05,133.0,73.84,59.16,Bank Transfer,New
+ORD-0373,2025-02-09,East,Beauty,Shampoo,14,4,0.2,44.8,40.17,4.63,Cash,Returning
+ORD-0374,2025-05-19,East,Beauty,Perfume,48,3,0.2,115.2,72.73,42.47,Bank Transfer,Returning
+ORD-0375,2025-06-13,West,Home & Kitchen,Water Bottle,16,5,0.1,72.0,57.29,14.71,Mobile Wallet,Returning
+ORD-0376,2025-08-21,East,Clothing,Jacket,75,5,0.05,356.25,201.24,155.01,Card,Returning
+ORD-0377,2025-09-05,East,Electronics,Keyboard,32,3,0.15,81.6,53.78,27.82,Mobile Wallet,New
+ORD-0378,2025-07-14,West,Clothing,Jeans,42,3,0.0,126.0,63.12,62.88,Mobile Wallet,New
+ORD-0379,2025-03-06,North,Electronics,Wireless Mouse,18,1,0.15,15.3,10.79,4.51,Mobile Wallet,New
+ORD-0380,2025-09-08,North,Electronics,Wireless Mouse,18,2,0.15,30.6,18.87,11.73,Card,New
+ORD-0381,2025-02-07,North,Sports,Running Shoes,68,5,0.0,340.0,230.92,109.08,Bank Transfer,Returning
+ORD-0382,2025-06-14,West,Home & Kitchen,Water Bottle,16,4,0.1,57.6,30.04,27.56,Bank Transfer,Returning
+ORD-0383,2025-05-04,East,Electronics,Wireless Mouse,18,3,0.0,54.0,37.48,16.52,Bank Transfer,New
+ORD-0384,2025-03-13,East,Sports,Yoga Mat,25,5,0.15,106.25,80.71,25.54,Mobile Wallet,Returning
+ORD-0385,2025-10-09,South,Sports,Dumbbells,40,3,0.05,114.0,69.46,44.54,Bank Transfer,New
+ORD-0386,2025-05-12,North,Beauty,Face Wash,12,1,0.05,11.4,7.7,3.7,Cash,New
+ORD-0387,2025-07-10,West,Clothing,Hoodie,38,2,0.15,64.6,50.14,14.46,Card,Returning
+ORD-0388,2025-09-11,North,Electronics,Wireless Mouse,18,5,0.1,81.0,55.16,25.84,Card,New
+ORD-0389,2025-01-31,North,Sports,Yoga Mat,25,3,0.1,67.5,42.13,25.37,Card,Returning
+ORD-0390,2025-07-14,North,Clothing,Jacket,75,3,0.05,213.75,157.72,56.03,Cash,Returning
+ORD-0391,2025-09-19,West,Clothing,Jacket,75,3,0.0,225.0,147.6,77.4,Card,Returning
+ORD-0392,2025-01-25,West,Home & Kitchen,Desk Lamp,28,1,0.1,25.2,13.19,12.01,Card,Returning
+ORD-0393,2025-07-03,North,Sports,Running Shoes,68,3,0.1,183.6,123.3,60.3,Bank Transfer,Returning
+ORD-0394,2025-07-11,South,Beauty,Face Wash,12,4,0.15,40.8,32.6,8.2,Bank Transfer,Returning
+ORD-0395,2025-01-09,South,Clothing,Jeans,42,5,0.2,168.0,136.07,31.93,Mobile Wallet,New
+ORD-0396,2025-07-10,East,Home & Kitchen,Blender,55,4,0.1,198.0,154.99,43.01,Card,New
+ORD-0397,2025-10-14,North,Sports,Sports Bottle,18,4,0.05,68.4,48.96,19.44,Bank Transfer,Returning
+ORD-0398,2025-08-24,West,Clothing,Jacket,75,1,0.05,71.25,47.78,23.47,Bank Transfer,New
+ORD-0399,2025-04-24,North,Clothing,T-Shirt,15,4,0.15,51.0,32.5,18.5,Cash,New
+ORD-0400,2025-01-10,West,Beauty,Perfume,48,1,0.05,45.6,25.94,19.66,Bank Transfer,Returning
+ORD-0401,2025-04-02,East,Home & Kitchen,Desk Lamp,28,1,0.1,25.2,19.8,5.4,Card,New
+ORD-0402,2025-04-09,North,Home & Kitchen,Desk Lamp,28,4,0.1,100.8,54.68,46.12,Card,Returning
+ORD-0403,2025-03-18,South,Electronics,Wireless Mouse,18,3,0.05,51.3,26.34,24.96,Bank Transfer,New
+ORD-0404,2025-09-08,East,Clothing,Hoodie,38,2,0.05,72.2,34.86,37.34,Cash,New
+ORD-0405,2025-06-15,North,Home & Kitchen,Cookware Set,80,4,0.0,320.0,145.19,174.81,Cash,New
+ORD-0406,2025-11-06,East,Home & Kitchen,Water Bottle,16,4,0.2,51.2,35.33,15.87,Card,Returning
+ORD-0407,2025-11-08,South,Electronics,Wireless Mouse,18,4,0.1,64.8,39.1,25.7,Bank Transfer,New
+ORD-0408,2025-12-24,East,Electronics,USB Hub,24,5,0.2,96.0,54.72,41.28,Card,Returning
+ORD-0409,2025-04-09,West,Sports,Dumbbells,40,4,0.15,136.0,99.32,36.68,Mobile Wallet,Returning
+ORD-0410,2025-07-15,North,Beauty,Face Wash,12,2,0.1,21.6,14.34,7.26,Mobile Wallet,New
+ORD-0411,2025-02-07,West,Electronics,USB Hub,24,1,0.0,24.0,13.73,10.27,Bank Transfer,New
+ORD-0412,2025-01-07,North,Electronics,Headphones,45,1,0.2,36.0,26.02,9.98,Card,New
+ORD-0413,2025-01-17,North,Beauty,Perfume,48,5,0.05,228.0,140.66,87.34,Unknown,New
+ORD-0414,2025-12-22,South,Electronics,USB Hub,24,4,0.1,86.4,68.37,18.03,Mobile Wallet,Returning
+ORD-0415,2025-05-31,West,Beauty,Perfume,48,1,0.1,43.2,25.22,17.98,Mobile Wallet,New
+ORD-0416,2025-09-15,South,Home & Kitchen,Cookware Set,80,5,0.2,320.0,200.14,119.86,Card,New
+ORD-0417,2025-06-18,North,Clothing,Jeans,42,3,0.05,119.7,79.83,39.87,Bank Transfer,Returning
+ORD-0418,2025-04-21,East,Home & Kitchen,Water Bottle,16,3,0.05,45.6,26.12,19.48,Cash,New
+ORD-0419,2025-04-08,North,Beauty,Moisturizer,22,1,0.2,17.6,13.3,4.3,Card,Returning
+ORD-0420,2025-07-22,North,Clothing,Jeans,42,4,0.0,168.0,98.04,69.96,Mobile Wallet,New
+ORD-0421,2025-11-27,West,Beauty,Shampoo,14,2,0.0,28.0,18.7,9.3,Card,Returning
+ORD-0422,2025-06-28,South,Electronics,Keyboard,32,3,0.15,81.6,68.93,12.67,Bank Transfer,New
+ORD-0423,2025-06-14,East,Electronics,Keyboard,32,5,0.1,144.0,79.69,64.31,Unknown,New
+ORD-0424,2025-12-11,North,Electronics,USB Hub,24,4,0.05,91.2,44.23,46.97,Mobile Wallet,New
+ORD-0425,2025-04-10,North,Home & Kitchen,Water Bottle,16,5,0.0,80.0,42.03,37.97,Mobile Wallet,New
+ORD-0426,2025-04-30,North,Clothing,Jeans,42,5,0.05,199.5,113.09,86.41,Bank Transfer,New
+ORD-0427,2025-05-09,West,Home & Kitchen,Blender,55,2,0.15,93.5,78.93,14.57,Card,Returning
+ORD-0428,2025-01-25,West,Beauty,Shampoo,14,5,0.05,66.5,46.13,20.37,Bank Transfer,Returning
+ORD-0429,2025-09-18,West,Clothing,Jacket,75,1,0.1,67.5,49.28,18.22,Mobile Wallet,New
+ORD-0430,2025-06-12,West,Electronics,USB Hub,24,3,0.0,72.0,51.73,20.27,Card,New
+ORD-0431,2025-09-27,West,Home & Kitchen,Cookware Set,80,1,0.0,80.0,52.64,27.36,Mobile Wallet,Returning
+ORD-0432,2025-12-24,South,Clothing,Jacket,75,2,0.0,150.0,78.67,71.33,Mobile Wallet,New
+ORD-0433,2025-11-07,South,Beauty,Moisturizer,22,3,0.05,62.7,36.7,26.0,Card,Returning
+ORD-0434,2025-10-04,South,Electronics,Headphones,45,5,0.2,180.0,127.13,52.87,Bank Transfer,Returning
+ORD-0435,2025-01-19,North,Electronics,Headphones,45,3,0.05,128.25,79.07,49.18,Mobile Wallet,New
+ORD-0436,2025-12-19,South,Beauty,Shampoo,14,3,0.1,37.8,28.24,9.56,Bank Transfer,Returning
+ORD-0437,2025-03-02,North,Electronics,USB Hub,24,3,0.2,57.6,48.69,8.91,Mobile Wallet,Returning
+ORD-0438,2025-04-26,South,Clothing,T-Shirt,15,2,0.2,24.0,18.23,5.77,Card,Returning
+ORD-0439,2025-04-05,North,Sports,Yoga Mat,25,2,0.1,45.0,32.23,12.77,Cash,Returning
+ORD-0440,2025-04-18,South,Electronics,USB Hub,24,1,0.0,24.0,14.12,9.88,Card,Returning
+ORD-0441,2025-04-05,North,Home & Kitchen,Blender,55,2,0.2,88.0,76.07,11.93,Cash,New
+ORD-0442,2025-06-21,North,Electronics,Keyboard,32,2,0.15,54.4,36.45,17.95,Bank Transfer,New
+ORD-0443,2025-04-04,South,Beauty,Perfume,48,4,0.1,172.8,131.63,41.17,Mobile Wallet,Returning
+ORD-0444,2025-08-28,West,Sports,Yoga Mat,25,5,0.0,125.0,87.63,37.37,Cash,New
+ORD-0445,2025-04-23,North,Home & Kitchen,Water Bottle,16,4,0.1,57.6,35.99,21.61,Bank Transfer,Returning
+ORD-0446,2025-08-04,North,Sports,Dumbbells,40,3,0.15,102.0,56.18,45.82,Card,Returning
+ORD-0447,2025-10-19,West,Electronics,Headphones,45,3,0.15,114.75,64.18,50.57,Mobile Wallet,Returning
+ORD-0448,2025-12-09,South,Clothing,Jacket,75,3,0.0,225.0,120.7,104.3,Mobile Wallet,Returning
+ORD-0449,2025-07-18,South,Clothing,Jeans,42,5,0.0,210.0,115.42,94.58,Bank Transfer,New
+ORD-0450,2025-05-01,South,Electronics,Wireless Mouse,18,4,0.05,68.4,44.59,23.81,Card,New
+ORD-0451,2025-04-16,East,Beauty,Shampoo,14,5,0.15,59.5,38.66,20.84,Cash,Returning
+ORD-0452,2025-05-09,North,Home & Kitchen,Cookware Set,80,1,0.2,64.0,53.14,10.86,Bank Transfer,New
+ORD-0453,2025-01-07,North,Sports,Running Shoes,68,3,0.2,163.2,117.05,46.15,Cash,Returning
+ORD-0454,2025-01-30,East,Electronics,Wireless Mouse,18,4,0.15,61.2,42.27,18.93,Mobile Wallet,Returning
+ORD-0455,2025-08-04,West,Clothing,Hoodie,38,5,0.15,161.5,124.21,37.29,Bank Transfer,Returning
+ORD-0456,2025-02-26,West,Electronics,Wireless Mouse,18,1,0.1,16.2,9.15,7.05,Mobile Wallet,Returning
+ORD-0457,2025-09-15,East,Clothing,Jeans,42,1,0.0,42.0,22.74,19.26,Cash,New
+ORD-0458,2025-01-31,North,Beauty,Face Wash,12,3,0.2,28.8,23.63,5.17,Cash,New
+ORD-0459,2025-03-20,South,Electronics,USB Hub,24,1,0.15,20.4,14.76,5.64,Bank Transfer,New
+ORD-0460,2025-11-25,North,Beauty,Face Wash,12,1,0.15,10.2,5.54,4.66,Mobile Wallet,Returning
+ORD-0461,2025-03-29,South,Sports,Sports Bottle,18,2,0.15,30.6,20.78,9.82,Mobile Wallet,New
+ORD-0462,2025-04-17,East,Electronics,Headphones,45,4,0.1,162.0,101.95,60.05,Bank Transfer,Returning
+ORD-0463,2025-01-02,North,Beauty,Perfume,48,5,0.0,240.0,132.93,107.07,Mobile Wallet,New
+ORD-0464,2025-10-28,South,Electronics,Headphones,45,2,0.0,90.0,59.07,30.93,Bank Transfer,Returning
+ORD-0465,2025-09-30,North,Sports,Yoga Mat,25,5,0.0,125.0,69.86,55.14,Cash,New
+ORD-0466,2025-02-18,East,Home & Kitchen,Desk Lamp,28,2,0.05,53.2,28.2,25.0,Cash,New
+ORD-0467,2025-04-23,North,Sports,Running Shoes,68,1,0.05,64.6,45.78,18.82,Bank Transfer,Unknown
+ORD-0468,2025-07-22,East,Electronics,Keyboard,32,2,0.2,51.2,35.19,16.01,Bank Transfer,New
+ORD-0469,2025-12-13,South,Home & Kitchen,Blender,55,4,0.0,220.0,142.24,77.76,Card,Returning
+ORD-0470,2025-01-28,North,Electronics,Wireless Mouse,18,5,0.2,72.0,60.8,11.2,Cash,New
+ORD-0471,2025-06-21,East,Sports,Yoga Mat,25,3,0.2,60.0,38.5,21.5,Mobile Wallet,New
+ORD-0472,2025-11-21,West,Home & Kitchen,Desk Lamp,28,5,0.1,126.0,81.92,44.08,Cash,New
+ORD-0473,2025-02-05,West,Clothing,Jacket,75,5,0.0,375.0,217.11,157.89,Card,Returning
+ORD-0474,2025-01-23,South,Sports,Running Shoes,68,4,0.05,258.4,153.14,105.26,Cash,Returning
+ORD-0475,2025-10-07,South,Home & Kitchen,Water Bottle,16,3,0.05,45.6,25.56,20.04,Mobile Wallet,New
+ORD-0476,2025-07-29,North,Electronics,Wireless Mouse,18,5,0.2,72.0,55.13,16.87,Cash,Returning
+ORD-0477,2025-07-28,North,Sports,Sports Bottle,18,1,0.05,17.1,8.83,8.27,Card,New
+ORD-0478,2025-05-03,East,Home & Kitchen,Desk Lamp,28,1,0.2,22.4,12.94,9.46,Card,New
+ORD-0479,2025-07-24,North,Sports,Running Shoes,68,2,0.15,115.6,74.39,41.21,Cash,Returning
+ORD-0480,2025-07-03,North,Electronics,USB Hub,24,5,0.05,114.0,60.14,53.86,Cash,Returning
+ORD-0481,2025-06-20,West,Beauty,Shampoo,14,2,0.15,23.8,18.29,5.51,Cash,Returning
+ORD-0482,2025-11-15,South,Home & Kitchen,Blender,55,3,0.1,148.5,87.5,61.0,Bank Transfer,Returning
+ORD-0483,2025-03-13,East,Clothing,Hoodie,38,5,0.2,152.0,106.89,45.11,Mobile Wallet,New
+ORD-0484,2025-02-20,North,Home & Kitchen,Blender,55,2,0.05,104.5,65.17,39.33,Mobile Wallet,Returning
+ORD-0485,2025-11-02,North,Beauty,Face Wash,12,1,0.0,12.0,7.88,4.12,Card,Returning
+ORD-0486,2025-11-05,East,Sports,Running Shoes,68,1,0.0,68.0,43.3,24.7,Cash,Returning
+ORD-0487,2025-06-20,South,Electronics,USB Hub,24,5,0.15,102.0,72.99,29.01,Mobile Wallet,Returning
+ORD-0488,2025-05-31,South,Electronics,USB Hub,24,1,0.1,21.6,15.1,6.5,Bank Transfer,Returning
+ORD-0489,2025-09-10,East,Home & Kitchen,Desk Lamp,28,3,0.0,84.0,42.39,41.61,Cash,New
+ORD-0490,2025-11-07,East,Sports,Running Shoes,68,1,0.0,68.0,38.02,29.98,Mobile Wallet,Returning
+ORD-0491,2025-04-15,West,Home & Kitchen,Cookware Set,80,4,0.15,272.0,199.43,72.57,Mobile Wallet,Returning
+ORD-0492,2025-02-08,South,Sports,Running Shoes,68,1,0.15,57.8,32.46,25.34,Mobile Wallet,Returning
+ORD-0493,2025-05-26,East,Sports,Sports Bottle,18,3,0.15,45.9,25.62,20.28,Card,New
+ORD-0494,2025-12-17,East,Electronics,Keyboard,32,5,0.2,128.0,97.64,30.36,Cash,New
+ORD-0495,2025-05-16,East,Beauty,Moisturizer,22,5,0.2,88.0,70.98,17.02,Cash,New
+ORD-0496,2025-02-28,South,Home & Kitchen,Blender,55,4,0.0,220.0,110.47,109.53,Mobile Wallet,Returning
+ORD-0497,2025-03-24,South,Home & Kitchen,Cookware Set,80,5,0.05,380.0,191.42,188.58,Card,Returning
+ORD-0498,2025-07-29,North,Sports,Dumbbells,40,5,0.15,170.0,133.35,36.65,Mobile Wallet,Returning
+ORD-0499,2025-12-19,West,Sports,Sports Bottle,18,1,0.1,16.2,8.35,7.85,Mobile Wallet,Returning
+ORD-0500,2025-09-30,West,Beauty,Shampoo,14,5,0.1,63.0,35.5,27.5,Bank Transfer,New
